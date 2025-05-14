@@ -15,9 +15,6 @@ Explore the projects and feel free to reach out for collaborations or inquiries!
 
 Website is Live at this URL: https://nishantxcode.github.io/Nishant-Portfolio-Webstite/
 
-![Desktop Screen Recording](assets/Nishant-Portfolio-Website-Demo-Video.gif)
-![Mobile Screen Recording](assets/Nishant-Portfolio-Website-Mobile-Demo-Video.gif)
-
 ## Tech Stack
 
 HTML, CSS, JavaScript
