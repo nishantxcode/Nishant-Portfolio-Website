@@ -1,7 +1,7 @@
 
 # Nishant Portfolio Website
 
-Welcome to my Web Developer Portfolio! This repository showcases my journey in web development through a collection of projects that highlight my skills in HTML, CSS, JavaScript, and various frameworks.
+Welcome to my Web Developer Portfolio Website! This repository showcases my journey in web development through a collection of projects that highlight my skills in HTML, CSS, JavaScript, and various frameworks.
 
 ## Features
 
