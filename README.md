@@ -3,6 +3,10 @@
 
 Welcome to my Web Developer Portfolio Website! This repository showcases my journey in web development through a collection of projects that highlight my skills in HTML, CSS, JavaScript, and various frameworks.
 
+## Demo
+
+Website is Live at this URL: https://nishantxcode.github.io/Nishant-Portfolio-Website/
+
 ## Features
 
 - Responsive Design: Ensures optimal viewing on all devices.
@@ -10,10 +14,6 @@ Welcome to my Web Developer Portfolio Website! This repository showcases my jour
 - Clean Code: Well-organized and documented with comments for easy navigation.
 Explore the projects and feel free to reach out for collaborations or inquiries!
 - Mobile Optimization: Tailored layouts and functionalities specifically for mobile users, ensuring a seamless experience on smartphones and tablets.
-
-## Demo
-
-Website is Live at this URL: https://nishantxcode.github.io/Nishant-Portfolio-Webstite/
 
 ## Tech Stack
 
